@@ -68,9 +68,6 @@ body {
 }
 
 .notif {
-  color: lightslategray
-}
-
-.low {
-  border-width: 5px;
+  color: lightslategray;
+  text-align: center;
 }
