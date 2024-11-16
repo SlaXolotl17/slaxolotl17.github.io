@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Caesar';
+  font-family: 'Caesar-Dressing-Regular';
   src: URL('/Fonts/CaesarDressing-Regular.ttf') format('truetype');
 }
 
@@ -77,7 +77,7 @@ body {
 }
 
 .LogoL {
-  font-family: "Caesar";
+  font-family: 'Ceasar-Dressing-Regular';
   background-color: #333;
   color: #FFFFFF
 }
