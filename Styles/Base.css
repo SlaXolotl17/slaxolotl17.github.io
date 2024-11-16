@@ -12,7 +12,8 @@ body {
 }
 
 .header p {
-  font-family: 'Brush Script MT', 'Times New Roman', Arial, Helvetica, sans-serif
+  font-family: 'Brush Script MT', 'Times New Roman', Arial, Helvetica, sans-serif;
+  font-size: 14px
 }
 
 /* Style the top navigation bar */
