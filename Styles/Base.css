@@ -1,3 +1,7 @@
+@font-face {
+  font-family: 'Caesar';
+  src: URL('CaesarDressing.ttf') format('truetype');
+}
 
 body {
   margin: 0;
@@ -70,4 +74,8 @@ body {
 .notif {
   color: lightslategray;
   text-align: center;
+}
+
+.LogoL {
+  font-family: "Caesar", Arial, Helvetica, sans-serif
 }
