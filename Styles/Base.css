@@ -78,7 +78,7 @@ body {
 
 .LogoL {
   font-family: "Caesar-Dressing-Regular";
-  background-color: #333;
-  color: #FFFFFF;
-  padding: 15px;
+  color: gold;
+  text-align: center;
+  font-size: 35px;
 }
