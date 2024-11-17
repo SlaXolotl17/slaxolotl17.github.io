@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Caesar-Dressing-Regular';
-  src: URL('/Fonts/CaesarDressing-Regular.ttf') format('truetype');
+  src: URL('./Fonts/CaesarDressing-Regular.ttf') format('truetype');
 }
 
 body {
